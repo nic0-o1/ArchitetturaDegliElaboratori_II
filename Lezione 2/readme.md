@@ -1,1 +1,0 @@
-Utilizzo dello stack per "spilling register" ed utilizzo delle syscall
